@@ -1,0 +1,6 @@
+"Metric","Value"
+"Overall Accuracy","62.16%"
+"Cohen's Kappa","0.3371"
+"Macro F1-Score","0.3149"
+"Macro AUC","0.8169"
+"Log Loss","1.1147"
